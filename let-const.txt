@@ -1,0 +1,9 @@
+const PI = 3.14
+
+The difference between var and let is var can be reassigned and redeclared whereas let cannot be redeclared yet it can be reassigned. Var is function scope and let is block scope.
+
+The difference between var and const is const cannot be reassigned or redeclared. Const is block scope.
+
+The difference between let and const is you cannot reassign const.
+
+Hoisting is how JavaScript compiles code and accesses variables in their scope.
